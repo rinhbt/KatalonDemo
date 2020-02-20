@@ -14,6 +14,7 @@ public class TestTrigger{
 
 		public String doSomethingOnTheParam(){
 			return null;
+			//Jenkins first attemp!
 		}
 
 
