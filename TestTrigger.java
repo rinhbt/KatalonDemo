@@ -12,6 +12,10 @@ public class TestTrigger{
 			this.firstParam = firstParam;
 		}
 
+		public String doSomethingOnTheParam(){
+			return null;
+		}
+
 
 
 	}
